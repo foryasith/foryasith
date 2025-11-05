@@ -1,5 +1,5 @@
-<a align="center" href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=45&pause=10&center=true&vCenter=true&width=435&height=150&lines=Hi%2C+there!+;I'm+Yasith+Prashan" alt="Typing SVG" />
+<a align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=45&pause=10&center=true&vCenter=true&width=635&height=150&lines=Hi%2C+there!+;I'm+Yasith+Prashan" alt="Typing SVG" />
 </a>
 
 ## 💫 About Me:
