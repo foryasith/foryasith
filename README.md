@@ -1,14 +1,4 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yasith Prashan!;" />
-</h1>
-<h1 align="center">Yasith Prashan 👋</h1>
-<h3 align="center"></h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-000000?style=flat&logo=javascript&logoColor=yellow" alt="Full Stack Developer" />
-  <img src="https://img.shields.io/badge/-Web%20Development-000000?style=flat&logo=react&logoColor=61DAFB" alt="Web Development" />
-  <img src="https://img.shields.io/badge/-IoT-000000?style=flat&logo=internet-explorer&logoColor=blue" alt="IoT" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=10&center=true&vCenter=true&width=435&lines=Hi%2C+there!+;I'm+Yasith+Prashan" alt="Typing SVG" /></a>
 
 ## 💫 About Me:
 # Hi, I'm Yasith Prashan<br>
