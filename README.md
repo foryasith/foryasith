@@ -1,4 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=10&center=true&vCenter=true&width=435&lines=Hi%2C+there!+;I'm+Yasith+Prashan" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=45&pause=10&center=true&vCenter=true&width=435&height=150&lines=Hi%2C+there!+;I'm+Yasith+Prashan" alt="Typing SVG" />
+</a>
 
 ## 💫 About Me:
 # Hi, I'm Yasith Prashan<br>
