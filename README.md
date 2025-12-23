@@ -1,22 +1,111 @@
-<a align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=45&pause=10&center=true&vCenter=true&width=635&height=150&lines=Hi%2C+there!+;I'm+Yasith+Prashan" alt="Typing SVG" />
-</a>
+<!-- ======================= DARK TEAL GRADIENT BANNER ======================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16476A,100:0A2233&height=230&section=header&text=Yasith%20Prashan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+</p>
 
-## 💫 About Me:
-# Hi, I'm Yasith Prashan<br>
-💻 Computer Science student with a passion for web development, IoT, and AI.<br>🚀 I enjoy solving complex problems and building meaningful applications that can improve lives.<br>🌱 Currently working on various personal projects, including a fitness tracker and a chat application.<br>📈 Aspiring entrepreneur with a vision to create impactful technologies.<br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=800&color=00CFFF&center=true&vCenter=true&width=700&lines=Computer+Science+Undergraduate;Web+Developer+%7C+IoT+%7C+AI+Enthusiast;Problem+Solver+%7C+Tech+Explorer" />
+</p>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasith-prashan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yasithprashan@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=foryasith&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=foryasith&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h2 align="center">💻 Passionate Developer | Future Tech Entrepreneur</h2>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=foryasith&icon=1&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👀 Profile Visitors
+![Visitor Count](https://komarev.com/ghpvc/?username=foryasith&style=for-the-badge&color=16476A)
+
+---
+
+## 🟢 Open To
+<p align="left">
+<img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-16476A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATIONS-0A2233?style=for-the-badge" />
+</p>
+
+---
+
+## ✨ About Me
+- 🎓 **Computer Science Undergraduate**
+- 💻 Interested in **Web Development, IoT & AI**
+- 🚀 Love solving complex problems & building impactful applications
+- 🌱 Currently working on **personal and academic projects**
+- 🎯 Aspiring **Entrepreneur & Software Engineer**
+
+---
+
+## 🛠️ Skills
+
+### ✅ Languages & Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=c,java,js,python,r,react,nodejs,tailwind,php,dotnet" />
+</p>
+
+### 🗄️ Databases & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,aws" />
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,figma,vercel,netlify,jira,vscode" />
+</p>
+
+### 🤖 Hardware & AI
+<p>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,tensorflow" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+<!-- PROJECTS:START -->
+- 🏋️ **Fitness Tracker App** – Tracks workouts & health metrics  
+- 💬 **Real-Time Chat Application** – Secure messaging with modern UI  
+- 🌐 **Web Applications** – Built using React, Node.js & Tailwind  
+<!-- PROJECTS:END -->
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=foryasith&show_icons=true&bg_color=30,16476A,0A2233&title_color=ffffff&text_color=ffffff&icon_color=00cfff" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foryasith&layout=compact&bg_color=30,16476A,0A2233&title_color=ffffff&text_color=ffffff" height="160"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=foryasith&background=16476A&stroke=ffffff&ring=00cfff&fire=00cfff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" />
+</p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=foryasith&theme=algolia&no-frame=true&margin-w=4" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=foryasith&bg_color=0A2233&color=ffffff&line=00cfff&point=ffffff&area=true&area_color=16476A&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/yasith-prashan">
+<img src="https://img.shields.io/badge/LinkedIn-16476A?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:yasithprashan@gmail.com">
+<img src="https://img.shields.io/badge/Email-0A2233?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+<!-- ======================= FOOTER ======================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2233,100:16476A&height=120&section=footer" />
+</p>
