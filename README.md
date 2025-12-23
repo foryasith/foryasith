@@ -59,10 +59,18 @@
 
 ## 🚀 Featured Projects
 <!-- PROJECTS:START -->
-- 🏋️ **Fitness Tracker App** – Tracks workouts & health metrics  
-- 💬 **Real-Time Chat Application** – Secure messaging with modern UI  
-- 🌐 **Web Applications** – Built using React, Node.js & Tailwind  
+
+- 🗑️ **Smart Bin (IoT)** – Automated waste-sorting system using **Python, OpenCV & Raspberry Pi**; led design, integration, and testing.  
+- 🌱 **Plant Nursery Web App** – Full-stack system (**React, Spring Boot, SQL**) with employee, inventory, order & user management.  
+- 🏭 **Tea Factory Management System** – Agile-based **React + Spring Boot + MongoDB** application developed across 4 Jira sprints.  
+- 📊 **PromoPulse Mobile App (UI/UX)** – Figma prototype with AI dashboards, analytics & collaboration tools for factory management.  
+- 🤖 **SLIIT RoboFest Micromouse** – Autonomous robot built using **ESP32 & IR sensors** for maze-solving competition.  
+- ⚓ **Naval Battle Simulator** – Terminal-based **C game** with file handling, randomization, ncurses & multithreading.  
+- ⚙️ **Custom API Testing DSL & Compiler** – Designed a DSL and compiler using **JFlex, CUP, Makefiles & OpenAPI**.  
+- 🚦 **Traffic Light Simulator** – Hardware-based traffic system using **dual NE555 timer circuits** with adjustable timing control.
+
 <!-- PROJECTS:END -->
+
 
 ---
 
