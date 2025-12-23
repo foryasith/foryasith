@@ -91,8 +91,12 @@
 
 ## 🏆 Achievements
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=foryasith&theme=algolia&no-frame=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=foryasith&theme=algolia&no-frame=true&margin-w=4" />
 </p>
+
+- 🥇 **Top 10 Finalist – Mini Hackathon 2025 (SLIIT)**  
+- 🤖 **RoboFest 2025 Micromouse Challenge – Team Lead**
+
 
 ---
 
@@ -106,12 +110,16 @@
 ## 🌐 Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/yasith-prashan">
-<img src="https://img.shields.io/badge/LinkedIn-16476A?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-16476A?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://yasithprashan.online/">
+  <img src="https://img.shields.io/badge/Website-0A2233?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 <a href="mailto:yasithprashan@gmail.com">
-<img src="https://img.shields.io/badge/Email-0A2233?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-003B44?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
+
 
 <!-- ======================= FOOTER ======================= -->
 <p align="center">
