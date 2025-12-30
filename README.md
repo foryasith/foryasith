@@ -71,7 +71,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=foryasith&show_icons=true&bg_color=30,16476A,0A2233&title_color=ffffff&text_color=ffffff&icon_color=00cfff" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foryasith&layout=compact&bg_color=30,16476A,0A2233&title_color=ffffff&text_color=ffffff" height="160"/>
@@ -80,10 +80,10 @@
 ---
 
 ## 🔥 Contribution Activity
-<p align="center">
+ <p align="center"> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=foryasith&bg_color=0A2233&color=ffffff&line=00cfff&point=ffffff&area=true&area_color=16476A&hide_border=true" />
 </p>
-
+-->
 ---
 
 ## 🏆 Achievements
