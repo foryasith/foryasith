@@ -92,7 +92,9 @@
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=foryasith&theme=algolia&no-frame=true&margin-w=4" />
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=foryasith&theme=algolia&no-frame=true&margin-w=4" /> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=foryasith&bg_color=0A2233&color=ffffff&line=00cfff&point=ffffff&area=true&area_color=16476A&hide_border=true" />
+
 </p>
 
 - 🥇 **Top 10 Finalist – Mini Hackathon 2025 (SLIIT)**  
