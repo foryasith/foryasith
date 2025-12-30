@@ -18,8 +18,8 @@
 
 ## 🟢 Open To
 <p align="left">
-<img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-16476A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATIONS-0A2233?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-16476A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATIONS-0A2233?style=for-the-badge" />
 </p>
 
 ---
@@ -33,34 +33,32 @@
 
 ---
 
-
 ## 🛠️ Skills
 
 ### ✅ Languages & Frameworks
 <p>
-<img src="https://skillicons.dev/icons?i=c,java,js,python,r,react,nodejs,tailwind,php,dotnet" />
+  <img src="https://skillicons.dev/icons?i=c,java,js,python,r,react,nodejs,tailwind,php,dotnet" />
 </p>
 
 ### 🗄️ Databases & Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,aws" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,aws" />
 </p>
 
 ### 🔧 Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,figma,vercel,netlify,jira,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,figma,vercel,netlify,jira,vscode" />
 </p>
 
 ### 🤖 Hardware & AI
 <p>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,tensorflow" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 <!-- PROJECTS:START -->
-
 - 🗑️ **Smart Bin (IoT)** – Automated waste-sorting system using **Python, OpenCV & Raspberry Pi**; led design, integration, and testing.  
 - 🌱 **Plant Nursery Web App** – Full-stack system (**React, Spring Boot, SQL**) with employee, inventory, order & user management.  
 - 🏭 **Tea Factory Management System** – Agile-based **React + Spring Boot + MongoDB** application developed across 4 Jira sprints.  
@@ -69,9 +67,7 @@
 - ⚓ **Naval Battle Simulator** – Terminal-based **C game** with file handling, randomization, ncurses & multithreading.  
 - ⚙️ **Custom API Testing DSL & Compiler** – Designed a DSL and compiler using **JFlex, CUP, Makefiles & OpenAPI**.  
 - 🚦 **Traffic Light Simulator** – Hardware-based traffic system using **dual NE555 timer circuits** with adjustable timing control.
-
 <!-- PROJECTS:END -->
-
 
 ---
 
@@ -83,7 +79,7 @@
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=foryasith&bg_color=0A2233&color=ffffff&line=00cfff&point=ffffff&area=true&area_color=16476A&hide_border=true" />
 </p>
@@ -91,17 +87,8 @@
 ---
 
 ## 🏆 Achievements
-
 - 🥇 **Top 10 Finalist – Mini Hackathon 2025 (SLIIT)**  
 - 🤖 **RoboFest 2025 Micromouse Challenge – Team Lead**
-
-
----
-
-## 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=foryasith&bg_color=0A2233&color=ffffff&line=00cfff&point=ffffff&area=true&area_color=16476A&hide_border=true" />
-</p>
 
 ---
 
@@ -117,7 +104,6 @@
   <img src="https://img.shields.io/badge/Email-003B44?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
-
 
 <!-- ======================= FOOTER ======================= -->
 <p align="center">
