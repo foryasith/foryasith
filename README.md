@@ -1,6 +1,6 @@
 <!-- ======================= DARK TEAL GRADIENT BANNER ======================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16476A,100:0A2233&height=230&section=header&text=Yasith%20Prashan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16476A,100:0A2233&height=230&section=header&text=Prashan%20Karunarathna&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 
 ### ✅ Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=c,java,js,python,r,react,nodejs,tailwind,php,dotnet" />
+  <img src="https://skillicons.dev/icons?i=c,java,js,python,react,nodejs,tailwind,dotnet" />
 </p>
 
 ### 🗄️ Databases & Cloud
@@ -47,7 +47,7 @@
 
 ### 🔧 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,figma,vercel,netlify,jira,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,figma,vercel,netlify,vscode" />
 </p>
 
 ### 🤖 Hardware & AI
@@ -79,13 +79,13 @@
 
 ---
 
+
 ## 🔥 Contribution Activity
  <p align="center"> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=foryasith&bg_color=0A2233&color=ffffff&line=00cfff&point=ffffff&area=true&area_color=16476A&hide_border=true" />
 </p>
--->
 ---
-
+-->
 ## 🏆 Achievements
 - 🥇 **Top 10 Finalist – Mini Hackathon 2025 (SLIIT)**  
 - 🤖 **RoboFest 2025 Micromouse Challenge – Team Lead**
